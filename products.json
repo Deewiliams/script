@@ -1,0 +1,41 @@
+[
+    {
+    "name": "wooden table",
+    "price": 5739,
+    "featured": true,
+    "company": "caressa",
+    "rating": 4.7
+},
+{
+    "name": "pots shop",
+    "price": 2234,
+    "featured": true,
+    "company": "ikea",
+    "rating": 10.4
+},
+{
+    "name": "new motor",
+    "price": 2234,
+    "featured": true,
+    "company": "liddy",
+    "rating": 1.0
+}, {
+    "name": "bicycle shop",
+    "price": 568,
+    "featured": true,
+    "company": "marcos",
+    "rating": 100.4
+}, {
+    "name": "chicken",
+    "price": 100,
+    "featured": true,
+    "company": "caressa",
+    "rating": 78.8
+}, {
+    "name": "fruits",
+    "price": 234,
+    "featured": true,
+    "company": "liddy",
+    "rating": 90.5
+}
+]
