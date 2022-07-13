@@ -30,4 +30,4 @@ const ProductScriptSchema = new mongoose.Schema({
     }
 })
 
-module.exports = mongoose.model('ProductScrit',ProductScriptSchema)
+module.exports = mongoose.model('ProductScript',ProductScriptSchema)
